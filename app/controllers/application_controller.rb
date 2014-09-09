@@ -9,6 +9,7 @@ class ApplicationController < ActionController::Base
       SaletMailer.expired_account(current_user).deliver
       sign_out
     end
+    return
   end
 
 end
