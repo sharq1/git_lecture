@@ -6,3 +6,5 @@ Branching:
   Production is on MASTER branch
   Releases go to RELEASE branch
   Hotfixes go to hotfix-* branches
+
+Started working on feature
