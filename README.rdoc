@@ -1,1 +1,8 @@
 Please add more issues!
+
+Branching:
+  Development happens on DEVELOP branch
+  Features for DEVELOP branch happens on separate branches
+  Production is on MASTER branch
+  Releases go to RELEASE branch
+  Hotfixes go to hotfix-* branches
